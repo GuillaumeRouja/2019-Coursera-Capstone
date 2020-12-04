@@ -9,3 +9,5 @@ This project uses the following platforms:
 - Python
 - Foursquare API
 
+Python code: Capstone project- final.ipynb
+Project Summary: PDF Report.pdf
